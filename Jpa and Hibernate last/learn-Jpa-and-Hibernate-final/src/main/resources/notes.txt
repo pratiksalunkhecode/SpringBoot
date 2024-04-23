@@ -1,0 +1,7 @@
+insert into course(id,name,author) values (1,'java','master')
+insert into course(id,name,author) values (2,'spring','master')
+
+
+select * from course
+
+delete from course where id = 1

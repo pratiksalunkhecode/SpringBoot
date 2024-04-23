@@ -1,0 +1,2 @@
+insert into MEDICINE_DETAILS(PRICE, ID, MANUFACTURING_LOCATION, PALNT_TYPE )
+values(200,1,'pune','mumbai');
